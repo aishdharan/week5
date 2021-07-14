@@ -1,12 +1,12 @@
 problem/score
-0/6 # pending amendements for full score (paffs)
-1/-
-2/-
+0/10 # pending amendments for full score (paffs)
+1/10
+2/10
 3/-
 4/10
 5/-
-6/-
+6/10
 7/-
 8/-
 9/-
-Total/16
+Total/50/100:50/50

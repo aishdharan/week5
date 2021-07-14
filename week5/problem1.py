@@ -1,7 +1,11 @@
 import random
 import sys
 
+"""
+Notes:
+- Great work!
 
+"""
 def main():
     # l1 = [1, 2, 3, 4]
     l1 = random.choices(range(0, 101), k=100)

@@ -1,6 +1,12 @@
 import random
 import sys
 
+"""
+Notes:
+- Very good.
+- These are far more concise that the for loops, which is good. 
+"""
+
 
 def main():
     l = random.choices(range(0, 101), k=100)
@@ -20,7 +26,7 @@ def main():
     new_l1 = list()
     k = 0
     # adjoin pair sum
-    while k < (len(l) - 1):
+    while k < (len(l) - 1):  # very good
         new_l1.append(l[k] + l[k + 1])
         k += 1
     print(f"new_l1 = {new_l1}")
